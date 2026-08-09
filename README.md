@@ -23,7 +23,7 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 
 ## Contributing
 
-- New minutes should be added as a PR against this repo using the [minutes template](./template/minutes-template.md).
+- New minutes should be added as a PR against this repo using the [minutes template](./minutes-template.md).
 - File naming convention: `YYYY-MM-DD-<short-meeting-name>/minutes.md`
 - Once a PR is merged, update the index table above with a link to the new file.
 
