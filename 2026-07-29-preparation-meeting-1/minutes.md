@@ -1,7 +1,5 @@
 # FG-TIDA Interregnum Preparation Meeting — 1st Meeting
 
-**Document:** FG-TIDA-XXX/PLEN
-
 **Source:** FG-TIDA Co-Chairs
 
 **Date:** Virtual, 29 July 2026
