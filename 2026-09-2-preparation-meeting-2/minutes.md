@@ -1,7 +1,5 @@
 # FG-TIDA Interregnum Preparation Meeting — 2nd Meeting
  
-**Document:** FG-TIDA-XXX/PLEN
- 
 **Source:** FG-TIDA Co-Chairs
  
 **Date:** Virtual, 02 September 2026
@@ -68,7 +66,9 @@ Four preparation meetings are planned, all virtual: 29 July, 2 September, 30 Sep
  
 ### 5.1 Introduction and Focus Group overview
  
-The management team introduced themselves and clarified that TIDA is an open community, not requiring ITU membership to participate. Emphasis was placed on moving communication to mailing lists and using GitHub as the central collaboration platform. Participants are invited to join the mailing list here. Participants were reminded of the timeline and key dates for virtual and in-person meetings.
+The management team introduced themselves and clarified that TIDA is an open community, not requiring ITU membership to participate. Emphasis was placed on moving communication to mailing lists and using GitHub as the central collaboration platform. Participants are invited to join the mailing list [here](https://www.itu.int/en/ITU-T/focusgroups/tida/Pages/default.aspx
+<img width="1826" height="123" alt="image" src="https://github.com/user-attachments/assets/482d8f74-a745-48a3-940c-c11ca670f449" />
+). Participants were reminded of the timeline and key dates for virtual and in-person meetings.
  
 ### 5.2 First in-person meeting planning
  
