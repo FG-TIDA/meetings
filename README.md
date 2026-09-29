@@ -20,7 +20,7 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 
 | Meeting | Date | Location | Minutes | Slides |
 |---------|------|----------|---------|--------|
-| 1st FG-TIDA Meeting | 1–4 December 2026 | Paris, France | — | — |
+| 1st FG-TIDA Meeting | 30 Nov – 1 December 2026 | Paris, France | — | — |
 
 ## Contributing
 
