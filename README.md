@@ -12,7 +12,7 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 |---|------|---------|--------|--------|
 | 1 | 29 July 2026 | [minutes](./2026-07-29-preparation-meeting-1/minutes.md) | [slides](./2026-07-29-preparation-meeting-1/TIDA_July%2026.pptx) | ✅ Held |
 | 2 | 2 September 2026 | [minutes](./2026-09-2-preparation-meeting-2/minutes.md) | [slides](./2026-09-2-preparation-meeting-2/TIDA_Sept%202.pptx) | ✅ Held |
-| 3 | 30 September 2026 | [minutes](./2026-09-30-preparation-meeting-3/minutes.md) | [slides] | ✅ Held |
+| 3 | 30 September 2026 | [minutes](./2026-09-30-preparation-meeting-3/minutes.md) | [slides] (./2026-09-30-preparation-meeting-3) | ✅ Held |
 | 4 | 14 October 2026 | — | — | Upcoming |
 | 5 | 4 November 2026 | — | — | Upcoming |
 
