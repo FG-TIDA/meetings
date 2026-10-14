@@ -6,7 +6,7 @@ Each meeting has its own folder containing the minutes (`minutes.md`) and the ac
 
 ## Interregnum Preparation Meetings
 
-Virtual meetings held between the launch of the Focus Group (9 July 2026) and the first in-person meeting (Paris, 1–4 December 2026).
+Virtual meetings held between the launch of the Focus Group (9 July 2026) and the first in-person meeting (Paris, 30 Nov – 1 December 2026).
 
 | # | Date | Minutes | Slides | Status |
 |---|------|---------|--------|--------|
