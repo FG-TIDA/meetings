@@ -13,7 +13,7 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 | 1 | 29 July 2026 | [minutes](./2026-07-29-preparation-meeting-1/minutes.md) | [slides](./2026-07-29-preparation-meeting-1/TIDA_July%2026.pptx) | ✅ Held |
 | 2 | 2 September 2026 | [minutes](./2026-09-2-preparation-meeting-2/minutes.md) | [slides](./2026-09-2-preparation-meeting-2/TIDA_Sept%202.pptx) | ✅ Held |
 | 3 | 30 September 2026 | [minutes](./2026-09-30-preparation-meeting-3/minutes.md) | [Meeting slides — TIDA 30 September](./2026-09-30-preparation-meeting-3/TIDA_Sept%2030.pptx)<br>[RA-AAI (themes #22)](./2026-09-30-preparation-meeting-3/TIDA_30%20September%2026_RAAAI_final%20version.pptx)<br>[Child-Aware Delegated Identity (themes #25)](./2026-09-30-preparation-meeting-3/TIDA_Child_Aware_Delegated_Identity_Theme%201.pptx)<br>[Authorization & privilege lifecycle (themes #23)](./2026-09-30-preparation-meeting-3/Security%20framework%20and%20requirements%20for%20authorization%20and%20privilege%20lifecycle%20management%20of%20AI%20agents.pptx) | ✅ Held |
-| 4 | 14 October 2026 | — | [Meeting slides — TIDA 14 October](./2026-10-14-preparation-meeting-4/TIDA_Oct%2014.pptx) | ✅ Held |
+| 4 | 14 October 2026 | [minutes](./2026-09-30-preparation-meeting-4/minutes.md) | [Meeting slides — TIDA 14 October](./2026-10-14-preparation-meeting-4/TIDA_Oct%2014.pptx) | ✅ Held |
 | 5 | 4 November 2026 | — | — | Upcoming |
 
 ## In-Person Meetings
