@@ -28,8 +28,10 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 - File naming convention: `YYYY-MM-DD-<short-meeting-name>/minutes.md`
 - Once a PR is merged, update the index table above with a link to the new file.
 
-## Draft Agenda -  Placeholder
+## Draft Agenda
 **1st FG-TIDA Meeting, Paris, France — 30 November – 01 December 2026**
+
+Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tida-datatracker.org/meeting/tida-2026-11-30-first-focus-group-meeting/agenda/?local_zone=Europe%2FParis&tz=meeting&group=&q=).
 
 <table>
 <thead>
@@ -51,17 +53,17 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 </tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">
+<td rowspan="5" style="text-align:center; vertical-align:middle;">
 09:00–09:45
 </td>
-<td><strong>1. Opening session</strong></td>
-<td><strong>xxx</strong></td>
-<td><strong>xxxx</strong></td>
+<td><strong>1. High-level session</strong></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1.1 Welcome by UNESCO and ITU-T</td>
 <td>TBD</td>
-<td>UNESCO and ITU-T Secretariat</td>
+<td>UNESCO<br>ITU/TSB</td>
 </tr>
 <tr>
 <td>1.2 Opening remarks by the Co-Chairs</td>
@@ -73,29 +75,29 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 <td>TBD</td>
 <td>Co-Chairs</td>
 </tr>
+<tr>
+<td>1.4 Address by the French Government</td>
+<td>TBD</td>
+<td>French Government (TBC)</td>
+</tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">
+<td rowspan="3" style="text-align:center; vertical-align:middle;">
 09:45–10:45
 </td>
 <td><strong>2. Mandate, objectives and expected outcomes</strong></td>
-<td>TBD</td>
-<td>ITU-T Secretariat and Co-Chairs</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>2.1 FG-TIDA Terms of Reference</td>
-<td>TBD</td>
-<td>ITU-T Secretariat</td>
-</tr>
-<tr>
-<td>2.2 Trust management and interoperable digital identity for humans and agentic AI</td>
+<td>2.1 Trust management and interoperable digital identity for humans and agentic AI</td>
 <td>TBD</td>
 <td>Co-Chairs</td>
 </tr>
 <tr>
-<td>2.3 Deliverable lifecycle, open-development approach and decision process</td>
+<td>2.2 Current state of the Working Groups</td>
 <td>TBD</td>
-<td>ITU-T Secretariat and Co-Chairs</td>
+<td>Co-Chairs</td>
 </tr>
 
 <tr>
@@ -108,99 +110,44 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 </tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">
-11:15–12:30
+<td style="text-align:center; vertical-align:middle;">
+11:15–12:45
 </td>
-<td><strong>3. Community landscape and theme consolidation</strong></td>
+<td><strong>3. WG1 session – Remote Attestation of Agentic AI</strong></td>
 <td>TBD</td>
-<td>Theme author and community representatives</td>
-</tr>
-<tr>
-<td>3.1 Outcomes of preparatory meetings</td>
-<td>TBD</td>
-<td>Co-Chairs</td>
-</tr>
-<tr>
-<td>3.2 Review of GitHub theme proposals, overlaps and gaps</td>
-<td>TBD</td>
-<td>Theme author</td>
-</tr>
-<tr>
-<td>3.3 Consolidation of candidate themes, scope boundaries and dependencies</td>
-<td>TBD</td>
-<td>Co-Chairs and theme author</td>
+<td>WG1 Co-Chairs</td>
 </tr>
 
 <tr>
 <td style="text-align:center; vertical-align:middle;">
-<strong>12:30–14:00</strong>
+<strong>12:45–14:00</strong>
 </td>
-<td><strong>Lunch break</strong></td>
+<td><strong>Lunch</strong></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td rowspan="5" style="text-align:center; vertical-align:middle;">
-14:00–15:00
+<td style="text-align:center; vertical-align:middle;">
+14:00–14:30
 </td>
-<td><strong>4. Common concepts, identity and authorization</strong></td>
+<td><strong>4. Use Cases</strong></td>
 <td>TBD</td>
-<td>Theme leads and invited experts</td>
-</tr>
-<tr>
-<td>4.1 Human, organization, device and AI-agent identities</td>
-<td>TBD</td>
-<td>Identity theme lead</td>
-</tr>
-<tr>
-<td>4.2 Agent identification, authentication and discovery</td>
-<td>TBD</td>
-<td>Identity theme lead</td>
-</tr>
-<tr>
-<td>4.3 Authority, delegation, representation and accountability</td>
-<td>TBD</td>
-<td>Authorization theme lead</td>
-</tr>
-<tr>
-<td>4.4 Revocation, expiry and recovery</td>
-<td>TBD</td>
-<td>Identity and authorization theme leads</td>
-</tr>
-
-<tr>
-<td rowspan="5" style="text-align:center; vertical-align:middle;">
-15:00–15:45
-</td>
-<td><strong>5. Trustworthiness and assurance across the agent lifecycle</strong></td>
-<td>TBD</td>
-<td>Theme leads and invited experts</td>
-</tr>
-<tr>
-<td>5.1 Registration, onboarding and provenance</td>
-<td>TBD</td>
-<td>Trust lifecycle theme lead</td>
-</tr>
-<tr>
-<td>5.2 Behavioural assurance, monitoring and continuous evaluation</td>
-<td>TBD</td>
-<td>Assurance theme lead</td>
-</tr>
-<tr>
-<td>5.3 Incident response, suspension and decommissioning</td>
-<td>TBD</td>
-<td>Trust lifecycle theme lead</td>
-</tr>
-<tr>
-<td>5.4 Evidence, auditability and accountability</td>
-<td>TBD</td>
-<td>Assurance theme lead</td>
+<td></td>
 </tr>
 
 <tr>
 <td style="text-align:center; vertical-align:middle;">
-<strong>15:45–16:00</strong>
+14:30–16:00
+</td>
+<td><strong>5. WG2 session – Identity-Behaviour-Enforcement Mismatch for AI Agents</strong></td>
+<td>TBD</td>
+<td>WG2 Co-Chairs</td>
+</tr>
+
+<tr>
+<td style="text-align:center; vertical-align:middle;">
+<strong>16:00–16:15</strong>
 </td>
 <td><strong>Coffee break</strong></td>
 <td></td>
@@ -208,98 +155,67 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 </tr>
 
 <tr>
-<td rowspan="5" style="text-align:center; vertical-align:middle;">
-16:00–17:00
+<td style="text-align:center; vertical-align:middle;">
+16:15–16:45
 </td>
-<td><strong>6. Human control and priority use cases</strong></td>
+<td><strong>6. Use Cases (continued)</strong></td>
 <td>TBD</td>
-<td>Government, industry, academia and civil-society contributors</td>
+<td></td>
 </tr>
+
 <tr>
-<td>6.1 Policy, consent, transparency and user override</td>
-<td>TBD</td>
-<td>Human control theme lead</td>
-</tr>
-<tr>
-<td>6.2 Privacy, security, inclusion and high-impact transactions</td>
-<td>TBD</td>
-<td>Privacy and security contributors</td>
-</tr>
-<tr>
-<td>6.3 Priority scenarios for public services, enterprise workflows, critical infrastructure and multi-agent collaboration</td>
-<td>TBD</td>
-<td>Use-case contributors</td>
-</tr>
-<tr>
-<td>6.4 Initial requirements and evaluation criteria</td>
-<td>TBD</td>
-<td>Use-case and assurance theme leads</td>
+<td style="text-align:center; vertical-align:middle;">
+16:45–17:00
+</td>
+<td><strong>7. Conclusion and summary of Day 1</strong></td>
+<td></td>
+<td>Co-Chairs</td>
 </tr>
 
 
 <!-- DAY 2 -->
 <tr>
 <td colspan="4" style="text-align:center; background-color:#d9e3f0;">
-<strong>1 December 2026 – Tuesday | Architecture, interoperability and work programme</strong>
+<strong>1 December 2026 – Tuesday | Working Groups and way forward</strong>
 </td>
 </tr>
 
 <tr>
 <td rowspan="5" style="text-align:center; vertical-align:middle;">
-09:00–10:15
+09:00–09:45
 </td>
-<td><strong>7. Reference architecture</strong></td>
-<td>TBD</td>
-<td>Architecture theme leads</td>
+<td><strong>8. Opening of Day 2</strong></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>7.1 Actors, trust domains and trust anchors</td>
-<td>TBD</td>
-<td>Architecture theme lead</td>
+<td>8.1 Welcome to Day 2 by the Co-Chairs</td>
+<td></td>
+<td>Co-Chairs</td>
 </tr>
 <tr>
-<td>7.2 Identity registries, credentials and agent discovery</td>
-<td>TBD</td>
-<td>Identity and architecture theme leads</td>
+<td>8.2 Recap of Day 1</td>
+<td></td>
+<td>Co-Chairs</td>
 </tr>
 <tr>
-<td>7.3 Policy enforcement, authorization and transaction controls</td>
+<td>8.3 Perspective on security</td>
 <td>TBD</td>
-<td>Authorization and architecture theme leads</td>
+<td>Arnaud Taddei, Chair, ITU-T SG17</td>
 </tr>
 <tr>
-<td>7.4 Observability, logging and audit services</td>
+<td>8.4 Address by the Government of Japan</td>
 <td>TBD</td>
-<td>Assurance and architecture theme leads</td>
+<td>Government of Japan (TBC)</td>
 </tr>
 
 <tr>
-<td rowspan="5" style="text-align:center; vertical-align:middle;">
-10:15–11:15
+<td style="text-align:center; vertical-align:middle;">
+09:45–11:15
 </td>
-<td><strong>8. Interoperability and standards landscape</strong></td>
+<td><strong>9. WG3 session</strong></td>
 <td>TBD</td>
-<td>ITU-T Secretariat and liaison representatives</td>
-</tr>
-<tr>
-<td>8.1 Existing identity, credential, authentication and trust standards</td>
-<td>TBD</td>
-<td>Standards landscape contributors</td>
-</tr>
-<tr>
-<td>8.2 Agent-to-agent and cross-platform interoperability</td>
-<td>TBD</td>
-<td>Interoperability theme lead</td>
-</tr>
-<tr>
-<td>8.3 Gap analysis and coordination with relevant SDOs and open-source communities</td>
-<td>TBD</td>
-<td>ITU-T Secretariat and liaison representatives</td>
-</tr>
-<tr>
-<td>8.4 Liaison priorities for ITU-T SG17 and other groups</td>
-<td>TBD</td>
-<td>ITU-T Secretariat</td>
+<td>WG3 Co-Chairs</td>
 </tr>
 
 <tr>
@@ -312,145 +228,72 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 </tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">
-11:45–12:45
+<td style="text-align:center; vertical-align:middle;">
+11:45–12:30
 </td>
-<td><strong>9. Technical demonstrations and proof-of-concept proposals</strong></td>
+<td><strong>10. Terminology</strong></td>
 <td>TBD</td>
-<td>Contributors and demonstration leads</td>
-</tr>
-<tr>
-<td>9.1 Candidate test scenarios and reference implementations</td>
-<td>TBD</td>
-<td>Proof-of-concept contributors</td>
-</tr>
-<tr>
-<td>9.2 Interoperability testing and measurable assurance claims</td>
-<td>TBD</td>
-<td>Interoperability and assurance theme leads</td>
-</tr>
-<tr>
-<td>9.3 Open-source workflow, repositories and contribution guidance</td>
-<td>TBD</td>
-<td>Repository maintainers and ITU-T Secretariat</td>
+<td></td>
 </tr>
 
 <tr>
 <td style="text-align:center; vertical-align:middle;">
-<strong>12:45–14:00</strong>
+<strong>12:30–13:45</strong>
 </td>
-<td><strong>Lunch break</strong></td>
+<td><strong>Lunch</strong></td>
 <td></td>
 <td></td>
-</tr>
-
-<tr>
-<td rowspan="2" style="text-align:center; vertical-align:middle;">
-14:00–15:00
-</td>
-<td><strong>10. Breakout drafting sessions</strong></td>
-<td>TBD</td>
-<td>Drafting teams</td>
-</tr>
-<tr>
-<td>Prepare draft scopes, objectives, milestones, dependencies and outlines for agreed deliverables and, where mature, Working Group charters.</td>
-<td>TBD</td>
-<td>Breakout leads and drafting teams</td>
-</tr>
-
-<tr>
-<td rowspan="5" style="text-align:center; vertical-align:middle;">
-15:00–15:45
-</td>
-<td><strong>11. Work programme and governance</strong></td>
-<td>TBD</td>
-<td>Co-Chairs, breakout leads and participants</td>
-</tr>
-<tr>
-<td>11.1 Breakout reports and consolidated themes</td>
-<td>TBD</td>
-<td>Breakout leads</td>
-</tr>
-<tr>
-<td>11.2 Confirm Working Groups or thematic workstreams</td>
-<td>TBD</td>
-<td>Co-Chairs</td>
-</tr>
-<tr>
-<td>11.3 Appoint interim leads, editors and rapporteurs</td>
-<td>TBD</td>
-<td>Co-Chairs and participants</td>
-</tr>
-<tr>
-<td>11.4 Agree deliverables, milestones, repository practices, liaison and outreach actions</td>
-<td>TBD</td>
-<td>Co-Chairs and workstream leads</td>
 </tr>
 
 <tr>
 <td style="text-align:center; vertical-align:middle;">
-<strong>15:45–16:00</strong>
+13:45–14:30
 </td>
-<td><strong>Coffee break</strong></td>
-<td></td>
+<td><strong>11. Use Cases WG</strong></td>
+<td>TBD</td>
 <td></td>
 </tr>
 
 <tr>
-<td rowspan="5" style="text-align:center; vertical-align:middle;">
-16:00–16:45
+<td rowspan="3" style="text-align:center; vertical-align:middle;">
+14:30–15:15
 </td>
-<td><strong>12. Review and approval of meeting outputs</strong></td>
+<td><strong>12. Overview of ITU-T Focus Group working methods</strong></td>
 <td>TBD</td>
-<td>Co-Chairs and FG-TIDA</td>
+<td>ITU-T Secretariat and Co-Chairs</td>
 </tr>
 <tr>
-<td>12.1 Decisions and action items</td>
+<td>12.1 Tutorial on FG working methods (Recommendation ITU-T A.7)</td>
 <td>TBD</td>
-<td>Co-Chairs</td>
+<td>ITU-T Secretariat</td>
 </tr>
 <tr>
-<td>12.2 Agreed theme charters and deliverable list</td>
+<td>12.2 Deliverable lifecycle, open-development approach and decision process</td>
 <td>TBD</td>
-<td>Co-Chairs and theme leads</td>
-</tr>
-<tr>
-<td>12.3 Meeting report</td>
-<td>TBD</td>
-<td>ITU-T Secretariat and meeting rapporteur</td>
-</tr>
-<tr>
-<td>12.4 Dates and objectives of future meetings and calls</td>
-<td>TBD</td>
-<td>Co-Chairs and ITU-T Secretariat</td>
+<td>ITU-T Secretariat and Co-Chairs</td>
 </tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">
-16:45–17:00
+<td style="text-align:center; vertical-align:middle;">
+15:15–16:00
 </td>
-<td><strong>13. Closing session</strong></td>
-<td>—</td>
-<td>UNESCO, ITU-T Secretariat and Co-Chairs</td>
-</tr>
-<tr>
-<td>13.1 Any other business</td>
-<td>—</td>
-<td>FG-TIDA participants</td>
-</tr>
-<tr>
-<td>13.2 Closing remarks by UNESCO, ITU-T and the Co-Chairs</td>
-<td>—</td>
-<td>UNESCO, ITU-T Secretariat and Co-Chairs</td>
-</tr>
-<tr>
-<td>13.3 Closure</td>
-<td>—</td>
+<td><strong>13. Feedback, Q&amp;A and future directions</strong></td>
+<td></td>
 <td>Co-Chairs</td>
+</tr>
+
+<tr>
+<td style="text-align:center; vertical-align:middle;">
+16:00–17:00
+</td>
+<td><strong>Networking</strong></td>
+<td></td>
+<td></td>
 </tr>
 
 </tbody>
 </table>
+
 
 ## Documents
 
