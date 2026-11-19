@@ -33,13 +33,17 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 
 Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tida-datatracker.org/meeting/tida-2026-11-30-first-focus-group-meeting/agenda/?local_zone=Europe%2FParis&tz=meeting&group=&q=).
 
+
+
+
+
 <table>
 <thead>
 <tr>
 <th style="text-align:center;">Date/Time</th>
 <th style="text-align:center;">Agenda item</th>
-<th style="text-align:center;">Doc</th>
 <th style="text-align:center;">Lead/Presenter</th>
+<th style="text-align:center;">Status / Expected outcome</th>
 </tr>
 </thead>
 
@@ -48,130 +52,131 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 <!-- DAY 1 -->
 <tr>
 <td colspan="4" style="text-align:center; background-color:#d9e3f0;">
-<strong>30 November 2026 – Monday | Foundations, priorities and requirements</strong>
+<strong>30 November 2026 – Monday | FG-TIDA 1st Meeting</strong>
 </td>
 </tr>
 
 <tr>
 <td rowspan="5" style="text-align:center; vertical-align:middle;">
-09:00–09:45
+09:00–09:30
 </td>
-<td><strong>1. High-level session</strong></td>
+<td><strong>Session 1 – High-level session</strong></td>
 <td></td>
-<td></td>
+<td>Agenda adopted</td>
 </tr>
 <tr>
 <td>1.1 Welcome by UNESCO and ITU-T</td>
-<td>TBD</td>
-<td>UNESCO<br>ITU/TSB</td>
-</tr>
-<tr>
-<td>1.2 Opening remarks by the Co-Chairs</td>
-<td>TBD</td>
-<td>Co-Chairs</td>
-</tr>
-<tr>
-<td>1.3 Adoption of the draft agenda</td>
-<td>TBD</td>
-<td>Co-Chairs</td>
-</tr>
-<tr>
-<td>1.4 Address by the French Government</td>
-<td>TBD</td>
-<td>French Government (TBC)</td>
-</tr>
-
-<tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">
-09:45–10:45
-</td>
-<td><strong>2. Mandate, objectives and expected outcomes</strong></td>
-<td></td>
+<td>1.1 UNESCO / ITU-TSB</td>
 <td></td>
 </tr>
 <tr>
-<td>2.1 Trust management and interoperable digital identity for humans and agentic AI</td>
-<td>TBD</td>
-<td>Co-Chairs</td>
+<td>1.2 Address by the French Government</td>
+<td>1.2 French Government</td>
+<td></td>
 </tr>
 <tr>
-<td>2.2 Current state of the Working Groups</td>
-<td>TBD</td>
-<td>Co-Chairs</td>
+<td>1.3 Opening address by the Co-Chairs – thanks to the sponsors</td>
+<td>1.3 Co-Chairs</td>
+<td></td>
+</tr>
+<tr>
+<td>1.4 Adoption of the agenda</td>
+<td>1.4 Co-Chairs</td>
+<td></td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-<strong>10:45–11:15</strong>
+<td rowspan="4" style="text-align:center; vertical-align:middle;">
+09:30–10:15
 </td>
+<td><strong>Session 2 – Terms of reference, objectives and current state of the Working Groups</strong></td>
+<td>Co-Chairs</td>
+<td>—</td>
+</tr>
+<tr><td>2.1 Terms of reference</td><td></td><td></td></tr>
+<tr><td>2.2 Objectives</td><td></td><td></td></tr>
+<tr><td>2.3 Current state of the Working Groups</td><td></td><td></td></tr>
+
+<tr>
+<td rowspan="4" style="text-align:center; vertical-align:middle;">
+10:15–10:45
+</td>
+<td><strong>Session 3 – Structure, leadership and dispatch</strong></td>
+<td>Co-Chairs; Dispatch Committee</td>
+<td>Structure and leadership approved – first milestone: the structure is in place</td>
+</tr>
+<tr><td>3.1 Approval of the structure</td><td></td><td></td></tr>
+<tr><td>3.2 Approval of the leadership</td><td></td><td></td></tr>
+<tr><td>3.3 New Work Items (NWI) – Dispatch: allocation to an existing WG – results of the Dispatch Committee</td><td></td><td></td></tr>
+
+<tr>
+<td style="text-align:center;"><strong>10:45–11:15</strong></td>
 <td><strong>Coffee break</strong></td>
-<td></td>
-<td></td>
+<td></td><td></td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
+<td rowspan="4" style="text-align:center; vertical-align:middle;">
 11:15–12:45
 </td>
-<td><strong>3. WG1 session – Remote Attestation of Agentic AI</strong></td>
-<td>TBD</td>
-<td>WG1 Co-Chairs</td>
+<td><strong>Session 4 – WG0 Terminology and Use Cases</strong></td>
+<td>WG0 Co-Chairs</td>
+<td>—</td>
 </tr>
+<tr><td>4.1 Approval of WG0 charter</td><td></td><td></td></tr>
+<tr><td>4.2 Terminology – selected contributions discussion</td><td></td><td></td></tr>
+<tr><td>4.3 Use Cases – selected use cases contribution discussion</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-<strong>12:45–14:00</strong>
-</td>
+<td style="text-align:center;"><strong>12:45–14:00</strong></td>
 <td><strong>Lunch</strong></td>
-<td></td>
-<td></td>
+<td></td><td></td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-14:00–14:30
-</td>
-<td><strong>4. Use Cases</strong></td>
-<td>TBD</td>
-<td></td>
+<td style="text-align:center;">14:00–14:30</td>
+<td><strong>Session 5 – WG0: Use Cases (fireside format)</strong><br>
+Use cases preselected through the Dispatch</td>
+<td>WG0 Co-Chairs</td>
+<td>—</td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-14:30–16:00
-</td>
-<td><strong>5. WG2 session – Identity-Behaviour-Enforcement Mismatch for AI Agents</strong></td>
-<td>TBD</td>
-<td>WG2 Co-Chairs</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">14:30–16:00</td>
+<td><strong>Session 6 – WG1</strong></td>
+<td>WG1 Co-Chairs</td>
+<td>—</td>
 </tr>
+<tr><td>6.1 Approval of WG1 charter</td><td></td><td></td></tr>
+<tr><td>6.2 Selected contributions discussion</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-<strong>16:00–16:15</strong>
-</td>
+<td style="text-align:center;"><strong>16:00–16:30</strong></td>
 <td><strong>Coffee break</strong></td>
-<td></td>
-<td></td>
+<td></td><td></td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-16:15–16:45
-</td>
-<td><strong>6. Use Cases (continued)</strong></td>
-<td>TBD</td>
-<td></td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">16:30–17:15</td>
+<td><strong>Session 8 – Working methods</strong></td>
+<td>ITU-T Secretariat and Co-Chairs</td>
+<td>—</td>
 </tr>
+<tr><td>8.1 Tutorial on FG working methods (Recommendation ITU-T A.7)</td><td></td><td></td></tr>
+<tr><td>8.2 Deliverable lifecycle, open-development approach and decision process</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-16:45–17:00
-</td>
-<td><strong>7. Conclusion and summary of Day 1</strong></td>
-<td></td>
+<td style="text-align:center;">17:15–17:30</td>
+<td><strong>Session 9 – Conclusion of Day 1</strong></td>
 <td>Co-Chairs</td>
+<td>—</td>
 </tr>
 
+<tr>
+<td style="text-align:center;">17:30–18:00</td>
+<td><strong>Networking and dinner at UNESCO</strong></td>
+<td></td><td></td>
+</tr>
 
 <!-- DAY 2 -->
 <tr>
@@ -181,125 +186,128 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 </tr>
 
 <tr>
-<td rowspan="5" style="text-align:center; vertical-align:middle;">
-09:00–09:45
-</td>
-<td><strong>8. Opening of Day 2</strong></td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">09:00–09:15</td>
+<td><strong>Session 10 – Opening of Day 2</strong></td>
 <td></td>
+<td>—</td>
+</tr>
+<tr>
+<td>10.1 Welcome to Day 2</td>
+<td>10.1 Co-Chairs</td>
 <td></td>
 </tr>
 <tr>
-<td>8.1 Welcome to Day 2 by the Co-Chairs</td>
+<td>10.2 Address by the Chair of ITU-T SG17</td>
+<td>10.2 Chair, ITU-T SG17</td>
 <td></td>
-<td>Co-Chairs</td>
-</tr>
-<tr>
-<td>8.2 Recap of Day 1</td>
-<td></td>
-<td>Co-Chairs</td>
-</tr>
-<tr>
-<td>8.3 Perspective on security</td>
-<td>TBD</td>
-<td>Arnaud Taddei, Chair, ITU-T SG17</td>
-</tr>
-<tr>
-<td>8.4 Address by the Government of Japan</td>
-<td>TBD</td>
-<td>Government of Japan (TBC)</td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-09:45–11:15
-</td>
-<td><strong>9. WG3 session</strong></td>
-<td>TBD</td>
-<td>WG3 Co-Chairs</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">09:15–10:45</td>
+<td><strong>Session 11 – WG2: Identity-Behaviour-Enforcement Mismatch for AI Agents</strong></td>
+<td>Co-Chairs</td>
+<td>Decision: new WG or amended Charter</td>
+</tr>
+<tr><td>11.1 Approval of WG2 charter</td><td></td><td></td></tr>
+<tr><td>11.2 Selected contributions discussion</td><td></td><td></td></tr>
+
+<tr>
+<td style="text-align:center;">10:45–11:15</td>
+<td><strong>Session 12 – Plenary: New WG or amended Charter?</strong><br>
+New Work Items (NWI) that do not fit an existing WG</td>
+<td>WG2 Co-Chairs</td>
+<td>—</td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-<strong>11:15–11:45</strong>
-</td>
+<td style="text-align:center;"><strong>11:15–11:30</strong></td>
 <td><strong>Coffee break</strong></td>
-<td></td>
-<td></td>
+<td></td><td></td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-11:45–12:30
-</td>
-<td><strong>10. Terminology</strong></td>
-<td>TBD</td>
-<td></td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">11:30–12:30</td>
+<td><strong>Session 13 – WG3: Discovery</strong></td>
+<td>WGX Co-Chairs</td>
+<td>Approval</td>
 </tr>
+<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-<strong>12:30–13:45</strong>
-</td>
+<td style="text-align:center;"><strong>12:30–13:30</strong></td>
 <td><strong>Lunch</strong></td>
-<td></td>
-<td></td>
+<td></td><td></td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-13:45–14:30
-</td>
-<td><strong>11. Use Cases WG</strong></td>
-<td>TBD</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">13:30–14:30</td>
+<td><strong>Session 14 – WG4: Control Plane</strong></td>
+<td>WGY Co-Chairs</td>
 <td></td>
+</tr>
+<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
+
+<tr>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">14:30–15:30</td>
+<td><strong>Session 15 – WG5: Governance / Cross-Border</strong></td>
+<td>WGZ Co-Chairs</td>
+<td>Approval</td>
+</tr>
+<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
+
+<tr>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">15:30–16:30</td>
+<td><strong>Session 16 – WGA: Athena</strong></td>
+<td>WGA Co-Chairs</td>
+<td>Approval</td>
+</tr>
+<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
+
+<tr>
+<td style="text-align:center;"><strong>16:30–16:45</strong></td>
+<td><strong>Coffee break</strong></td>
+<td></td><td></td>
 </tr>
 
 <tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">
-14:30–15:15
-</td>
-<td><strong>12. Overview of ITU-T Focus Group working methods</strong></td>
-<td>TBD</td>
-<td>ITU-T Secretariat and Co-Chairs</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">16:45–17:45</td>
+<td><strong>Session 17 – WGB: Child Online Protection</strong></td>
+<td>WGB Co-Chairs</td>
+<td>Approval</td>
 </tr>
-<tr>
-<td>12.1 Tutorial on FG working methods (Recommendation ITU-T A.7)</td>
-<td>TBD</td>
-<td>ITU-T Secretariat</td>
-</tr>
-<tr>
-<td>12.2 Deliverable lifecycle, open-development approach and decision process</td>
-<td>TBD</td>
-<td>ITU-T Secretariat and Co-Chairs</td>
-</tr>
+<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-15:15–16:00
-</td>
-<td><strong>13. Feedback, Q&amp;A and future directions</strong></td>
-<td></td>
+<td style="text-align:center;">17:45–18:15</td>
+<td><strong>Session 18 – Feedback and future directions</strong></td>
 <td>Co-Chairs</td>
+<td>—</td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:middle;">
-16:00–17:00
-</td>
-<td><strong>Networking</strong></td>
-<td></td>
-<td></td>
+<td style="text-align:center;">18:30 onwards</td>
+<td><strong>Networking &amp; Trustech dinner party for those who registered</strong></td>
+<td>—</td>
+<td>—</td>
 </tr>
 
 </tbody>
 </table>
 
 
+
+
+
 ## Documents
 
 Documents referenced in the agenda will be made available through the FG-TIDA repository.
 
-- **TBD** — To be provided
+- **TBD/TBC** — To be provided/To be confirmed
 - **xxx** — Placeholder
 - **—** — No document required
 
