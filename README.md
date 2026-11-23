@@ -34,8 +34,7 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tida-datatracker.org/meeting/tida-2026-11-30-first-focus-group-meeting/agenda/?local_zone=Europe%2FParis&tz=meeting&group=&q=).
 
 
-
-<table>
+<table style="width:100%; border-collapse:collapse;" border="1" cellpadding="8">
 <thead>
 <tr>
 <th style="text-align:center;">Date/Time</th>
@@ -44,20 +43,17 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 <th style="text-align:center;">Status / Expected outcome</th>
 </tr>
 </thead>
-
 <tbody>
 
 <!-- DAY 1 -->
 <tr>
 <td colspan="4" style="text-align:center; background-color:#d9e3f0;">
-<strong>30 November 2026 – Monday | FG-TIDA 1st Meeting</strong>
+<strong>Monday, 30 November 2026</strong>
 </td>
 </tr>
 
 <tr>
-<td rowspan="5" style="text-align:center; vertical-align:middle;">
-09:00–09:30
-</td>
+<td rowspan="5" style="text-align:center; vertical-align:middle;">09:00–09:30</td>
 <td><strong>Session 1 – High-level session</strong></td>
 <td></td>
 <td>Agenda adopted</td>
@@ -68,7 +64,7 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 <td></td>
 </tr>
 <tr>
-<td>1.2 Address by the French Government</td>
+<td>1.2 Address by the French Government – TBD</td>
 <td>1.2 French Government</td>
 <td></td>
 </tr>
@@ -84,9 +80,7 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 </tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">
-09:30–10:15
-</td>
+<td rowspan="5" style="text-align:center; vertical-align:middle;">09:30–10:15</td>
 <td><strong>Session 2 – Terms of reference, objectives and current state of the Working Groups</strong></td>
 <td>Co-Chairs</td>
 <td>—</td>
@@ -94,11 +88,10 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 <tr><td>2.1 Terms of reference</td><td></td><td></td></tr>
 <tr><td>2.2 Objectives</td><td></td><td></td></tr>
 <tr><td>2.3 Current state of the Working Groups</td><td></td><td></td></tr>
+<tr><td>2.4 Calendar</td><td></td><td></td></tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">
-10:15–10:45
-</td>
+<td rowspan="4" style="text-align:center; vertical-align:middle;">10:15–10:45</td>
 <td><strong>Session 3 – Structure, leadership and dispatch</strong></td>
 <td>Co-Chairs; Dispatch Committee</td>
 <td>Structure and leadership approved – first milestone: the structure is in place</td>
@@ -110,48 +103,46 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 <tr>
 <td style="text-align:center;"><strong>10:45–11:15</strong></td>
 <td><strong>Coffee break</strong></td>
-<td></td><td></td>
+<td>—</td><td>—</td>
 </tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">
-11:15–12:45
-</td>
-<td><strong>Session 4 – WG0 Terminology and Use Cases</strong></td>
-<td>WG0 Co-Chairs</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">11:15–12:45</td>
+<td><strong>Session 4 – WG2: Identity-Behaviour-Enforcement Mismatch for AI Agents</strong></td>
+<td>Co-Chairs WG2</td>
 <td>—</td>
 </tr>
-<tr><td>4.1 Approval of WG0 charter</td><td></td><td></td></tr>
-<tr><td>4.2 Terminology – selected contributions discussion</td><td></td><td></td></tr>
-<tr><td>4.3 Use Cases – selected use cases contribution discussion</td><td></td><td></td></tr>
+<tr><td>4.1 Approval of WG2 charter</td><td></td><td></td></tr>
+<tr><td>4.2 Selected contributions discussion</td><td></td><td></td></tr>
 
 <tr>
 <td style="text-align:center;"><strong>12:45–14:00</strong></td>
 <td><strong>Lunch</strong></td>
-<td></td><td></td>
+<td>—</td><td>—</td>
 </tr>
 
 <tr>
-<td style="text-align:center;">14:00–14:30</td>
+<td rowspan="4" style="text-align:center; vertical-align:middle;">14:00–15:30</td>
+<td><strong>Session 6 – WG0 Terminology and Use Cases</strong></td>
+<td>Co-Chairs WG0</td>
+<td>—</td>
+</tr>
+<tr><td>6.1 Approval of WG0 charter</td><td></td><td></td></tr>
+<tr><td>6.2 Terminology – selected contributions discussion</td><td></td><td></td></tr>
+<tr><td>6.3 Use Cases – selected use cases contribution discussion</td><td></td><td></td></tr>
+
+<tr>
+<td style="text-align:center;">15:30–16:00</td>
 <td><strong>Session 5 – WG0: Use Cases (fireside format)</strong><br>
 Use cases preselected through the Dispatch</td>
-<td>WG0 Co-Chairs</td>
+<td>Co-Chairs WG0</td>
 <td>—</td>
 </tr>
-
-<tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">14:30–16:00</td>
-<td><strong>Session 6 – WG1</strong></td>
-<td>WG1 Co-Chairs</td>
-<td>—</td>
-</tr>
-<tr><td>6.1 Approval of WG1 charter</td><td></td><td></td></tr>
-<tr><td>6.2 Selected contributions discussion</td><td></td><td></td></tr>
 
 <tr>
 <td style="text-align:center;"><strong>16:00–16:30</strong></td>
 <td><strong>Coffee break</strong></td>
-<td></td><td></td>
+<td>—</td><td>—</td>
 </tr>
 
 <tr>
@@ -173,13 +164,13 @@ Use cases preselected through the Dispatch</td>
 <tr>
 <td style="text-align:center;">17:30–18:00</td>
 <td><strong>Networking and dinner at UNESCO</strong></td>
-<td></td><td></td>
+<td>—</td><td>—</td>
 </tr>
 
 <!-- DAY 2 -->
 <tr>
 <td colspan="4" style="text-align:center; background-color:#d9e3f0;">
-<strong>1 December 2026 – Tuesday | Working Groups and way forward</strong>
+<strong>Tuesday, 1 December 2026</strong>
 </td>
 </tr>
 
@@ -202,11 +193,11 @@ Use cases preselected through the Dispatch</td>
 
 <tr>
 <td rowspan="3" style="text-align:center; vertical-align:middle;">09:15–10:45</td>
-<td><strong>Session 11 – WG2: Identity-Behaviour-Enforcement Mismatch for AI Agents</strong></td>
-<td>Co-Chairs</td>
+<td><strong>Session 11 – WG1: Continuous Attestation</strong></td>
+<td>Co-Chairs WG1</td>
 <td>Decision: new WG or amended Charter</td>
 </tr>
-<tr><td>11.1 Approval of WG2 charter</td><td></td><td></td></tr>
+<tr><td>11.1 Approval of WG1 charter</td><td></td><td></td></tr>
 <tr><td>11.2 Selected contributions discussion</td><td></td><td></td></tr>
 
 <tr>
@@ -220,85 +211,98 @@ New Work Items (NWI) that do not fit an existing WG</td>
 <tr>
 <td style="text-align:center;"><strong>11:15–11:30</strong></td>
 <td><strong>Coffee break</strong></td>
-<td></td><td></td>
+<td>—</td><td>—</td>
 </tr>
 
 <tr>
 <td rowspan="3" style="text-align:center; vertical-align:middle;">11:30–12:30</td>
 <td><strong>Session 13 – WG3: Discovery</strong></td>
 <td>WGX Co-Chairs</td>
-<td>Approval</td>
+<td>Discussion for Approval</td>
 </tr>
 <tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
 <tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center;"><strong>12:30–13:30</strong></td>
+<td style="text-align:center;"><strong>12:30–13:45</strong></td>
 <td><strong>Lunch</strong></td>
-<td></td><td></td>
+<td>—</td><td>—</td>
 </tr>
 
 <tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">13:30–14:30</td>
-<td><strong>Session 14 – WG4: Control Plane</strong></td>
-<td>WGY Co-Chairs</td>
-<td></td>
-</tr>
-<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
-<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
-
-<tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">14:30–15:30</td>
-<td><strong>Session 15 – WG5: Governance / Cross-Border</strong></td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">13:45–14:30</td>
+<td><strong>Session 15 – WG5: Governance / Cross-Border / Interoperable Credentials</strong></td>
 <td>WGZ Co-Chairs</td>
-<td>Approval</td>
+<td>Discussion for Approval</td>
 </tr>
-<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
-<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
+<tr><td>15.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>15.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">15:30–16:30</td>
-<td><strong>Session 16 – WGA: Athena</strong></td>
-<td>WGA Co-Chairs</td>
-<td>Approval</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">14:30–15:00</td>
+<td><strong>Session 16 – WG6: ICAP</strong></td>
+<td>WGZ Co-Chairs</td>
+<td>Discussion for Approval</td>
 </tr>
-<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
-<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
+<tr><td>16.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>16.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center;"><strong>16:30–16:45</strong></td>
+<td style="text-align:center;"><strong>15:00–15:30</strong></td>
 <td><strong>Coffee break</strong></td>
-<td></td><td></td>
+<td>—</td><td>—</td>
 </tr>
 
 <tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">16:45–17:45</td>
-<td><strong>Session 17 – WGB: Child Online Protection</strong></td>
-<td>WGB Co-Chairs</td>
-<td>Approval</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">15:30–16:00</td>
+<td><strong>Session 17 – WGA: Regulated domains / Athena</strong></td>
+<td>Co-Chairs WGA</td>
+<td>Discussion for Approval</td>
 </tr>
-<tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
-<tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
+<tr><td>17.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>17.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center;">17:45–18:15</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">16:00–16:30</td>
+<td><strong>Session 18 – WGB: Protected groups</strong><br>
+Child Online Protection</td>
+<td>Co-Chairs WGB</td>
+<td>Discussion for Approval</td>
+</tr>
+<tr><td>18.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>18.2 Proposal of charter</td><td></td><td></td></tr>
+
+<tr>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">16:30–16:45</td>
+<td><strong>Session 19 – WG4: Control Plane potentials – Arnaud</strong></td>
+<td>WGY Co-Chairs</td>
+<td>—</td>
+</tr>
+<tr><td>19.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>19.2 Proposal of charter</td><td></td><td></td></tr>
+
+<tr>
+<td style="text-align:center;"><strong>16:45–17:00</strong></td>
+<td><strong>Coffee break</strong></td>
+<td>—</td><td>—</td>
+</tr>
+
+<tr>
+<td style="text-align:center;">17:00–17:30</td>
 <td><strong>Session 18 – Feedback and future directions</strong></td>
 <td>Co-Chairs</td>
 <td>—</td>
 </tr>
 
 <tr>
-<td style="text-align:center;">18:30 onwards</td>
-<td><strong>Networking &amp; Trustech dinner party for those who registered</strong></td>
+<td style="text-align:center;">17:30–18:15</td>
+<td><strong>Network &amp; Trustech dinner party for those who registered</strong></td>
 <td>—</td>
 <td>—</td>
 </tr>
 
 </tbody>
 </table>
-
-
-
 
 
 
