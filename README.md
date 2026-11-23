@@ -35,8 +35,6 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 
 
 
-
-
 <table>
 <thead>
 <tr>
@@ -298,6 +296,7 @@ New Work Items (NWI) that do not fit an existing WG</td>
 
 </tbody>
 </table>
+
 
 
 
