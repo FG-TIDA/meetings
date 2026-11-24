@@ -34,6 +34,7 @@ Virtual meetings held between the launch of the Focus Group (9 July 2026) and th
 Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tida-datatracker.org/meeting/tida-2026-11-30-first-focus-group-meeting/agenda/?local_zone=Europe%2FParis&tz=meeting&group=&q=).
 
 
+
 <table style="width:100%; border-collapse:collapse;" border="1" cellpadding="8">
 <thead>
 <tr>
@@ -103,13 +104,14 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 <tr>
 <td style="text-align:center;"><strong>10:45–11:15</strong></td>
 <td><strong>Coffee break</strong></td>
-<td>—</td><td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 
 <tr>
 <td rowspan="3" style="text-align:center; vertical-align:middle;">11:15–12:45</td>
-<td><strong>Session 4 – WG2: Identity-Behaviour-Enforcement Mismatch for AI Agents</strong></td>
-<td>Co-Chairs WG2</td>
+<td><strong>Session 4 – WG2: Identity, Behaviour and Enforcement for AI Agents (IBEA)</strong></td>
+<td>WG2 Co-Chairs</td>
 <td>—</td>
 </tr>
 <tr><td>4.1 Approval of WG2 charter</td><td></td><td></td></tr>
@@ -118,53 +120,55 @@ Agenda can also be viewed on our datatracker at : [Tida datatracker](https://tid
 <tr>
 <td style="text-align:center;"><strong>12:45–14:00</strong></td>
 <td><strong>Lunch</strong></td>
-<td>—</td><td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 
 <tr>
-<td rowspan="4" style="text-align:center; vertical-align:middle;">14:00–15:30</td>
-<td><strong>Session 6 – WG0 Terminology and Use Cases</strong></td>
-<td>Co-Chairs WG0</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">14:00–15:30</td>
+<td><strong>Session 5 – WG0: Use Cases, Taxonomy, and Terminology (UCT)</strong></td>
+<td>WG0 Co-Chairs</td>
 <td>—</td>
 </tr>
-<tr><td>6.1 Approval of WG0 charter</td><td></td><td></td></tr>
-<tr><td>6.2 Terminology – selected contributions discussion</td><td></td><td></td></tr>
-<tr><td>6.3 Use Cases – selected use cases contribution discussion</td><td></td><td></td></tr>
+<tr><td>5.1 Approval of WG0 charter</td><td></td><td></td></tr>
+<tr><td>5.2 Terminology – selected contributions discussion</td><td></td><td></td></tr>
 
 <tr>
 <td style="text-align:center;">15:30–16:00</td>
-<td><strong>Session 5 – WG0: Use Cases (fireside format)</strong><br>
+<td><strong>Session 6 – WG0: Use Cases (fireside format)</strong><br>
 Use cases preselected through the Dispatch</td>
-<td>Co-Chairs WG0</td>
+<td>WG0 Co-Chairs</td>
 <td>—</td>
 </tr>
 
 <tr>
 <td style="text-align:center;"><strong>16:00–16:30</strong></td>
 <td><strong>Coffee break</strong></td>
-<td>—</td><td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 
 <tr>
 <td rowspan="3" style="text-align:center; vertical-align:middle;">16:30–17:15</td>
-<td><strong>Session 8 – Working methods</strong></td>
+<td><strong>Session 7 – Working methods</strong></td>
 <td>ITU-T Secretariat and Co-Chairs</td>
 <td>—</td>
 </tr>
-<tr><td>8.1 Tutorial on FG working methods (Recommendation ITU-T A.7)</td><td></td><td></td></tr>
-<tr><td>8.2 Deliverable lifecycle, open-development approach and decision process</td><td></td><td></td></tr>
+<tr><td>7.1 Tutorial on FG working methods (Recommendation ITU-T A.7)</td><td></td><td></td></tr>
+<tr><td>7.2 Deliverable lifecycle, open-development approach and decision process</td><td></td><td></td></tr>
 
 <tr>
 <td style="text-align:center;">17:15–17:30</td>
-<td><strong>Session 9 – Conclusion of Day 1</strong></td>
+<td><strong>Session 8 – Conclusion of Day 1</strong></td>
 <td>Co-Chairs</td>
 <td>—</td>
 </tr>
 
 <tr>
-<td style="text-align:center;">17:30–18:00</td>
+<td style="text-align:center;">17:30–22:00</td>
 <td><strong>Networking and dinner at UNESCO</strong></td>
-<td>—</td><td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 
 <!-- DAY 2 -->
@@ -176,115 +180,118 @@ Use cases preselected through the Dispatch</td>
 
 <tr>
 <td rowspan="3" style="text-align:center; vertical-align:middle;">09:00–09:15</td>
-<td><strong>Session 10 – Opening of Day 2</strong></td>
+<td><strong>Session 9 – Opening of Day 2</strong></td>
 <td></td>
 <td>—</td>
 </tr>
 <tr>
-<td>10.1 Welcome to Day 2</td>
-<td>10.1 Co-Chairs</td>
+<td>9.1 Welcome to Day 2</td>
+<td>9.1 Co-Chairs</td>
 <td></td>
 </tr>
 <tr>
-<td>10.2 Address by the Chair of ITU-T SG17</td>
-<td>10.2 Chair, ITU-T SG17</td>
+<td>9.2 Address by the Chair of ITU-T SG17</td>
+<td>9.2 Chair, ITU-T SG17</td>
 <td></td>
 </tr>
 
 <tr>
 <td rowspan="3" style="text-align:center; vertical-align:middle;">09:15–10:45</td>
-<td><strong>Session 11 – WG1: Continuous Attestation</strong></td>
-<td>Co-Chairs WG1</td>
+<td><strong>Session 10 – WG1: Continuous and Dynamic Remote Attestation for Agentic AI (CDRA)</strong></td>
+<td>WG1 Co-Chairs</td>
 <td>Decision: new WG or amended Charter</td>
 </tr>
-<tr><td>11.1 Approval of WG1 charter</td><td></td><td></td></tr>
-<tr><td>11.2 Selected contributions discussion</td><td></td><td></td></tr>
+<tr><td>10.1 Approval of WG1 charter</td><td></td><td></td></tr>
+<tr><td>10.2 Selected contributions discussion</td><td></td><td></td></tr>
 
 <tr>
 <td style="text-align:center;">10:45–11:15</td>
-<td><strong>Session 12 – Plenary: New WG or amended Charter?</strong><br>
+<td><strong>Session 11 – Plenary: New WG or amended Charter?</strong><br>
 New Work Items (NWI) that do not fit an existing WG</td>
-<td>WG2 Co-Chairs</td>
+<td>Co-Chairs</td>
 <td>—</td>
 </tr>
 
 <tr>
 <td style="text-align:center;"><strong>11:15–11:30</strong></td>
 <td><strong>Coffee break</strong></td>
-<td>—</td><td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 
 <tr>
 <td rowspan="3" style="text-align:center; vertical-align:middle;">11:30–12:30</td>
-<td><strong>Session 13 – WG3: Discovery</strong></td>
-<td>WGX Co-Chairs</td>
+<td><strong>Session 12 – WG3: Discovery</strong></td>
+<td>WG3 Co-Chairs</td>
+<td>Discussion for Approval</td>
+</tr>
+<tr><td>12.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>12.2 Proposal of charter</td><td></td><td></td></tr>
+
+<tr>
+<td style="text-align:center;"><strong>12:30–13:45</strong></td>
+<td><strong>Lunch</strong></td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">13:45–14:30</td>
+<td><strong>Session 13 – WG4: Governance / Cross-Border / Interoperable Credentials</strong></td>
+<td>WG4 Co-Chairs</td>
 <td>Discussion for Approval</td>
 </tr>
 <tr><td>13.1 WG proponents presentations</td><td></td><td></td></tr>
 <tr><td>13.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center;"><strong>12:30–13:45</strong></td>
-<td><strong>Lunch</strong></td>
-<td>—</td><td>—</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">14:30–15:00</td>
+<td><strong>Session 14 – WG5: Implementation Conditions and Adoption Pathways for Trusted Agentic AI (ICAP)</strong></td>
+<td>WG5 Co-Chairs</td>
+<td>Discussion for Approval</td>
+</tr>
+<tr><td>14.1 WG proponents presentations</td><td></td><td></td></tr>
+<tr><td>14.2 Proposal of charter</td><td></td><td></td></tr>
+
+<tr>
+<td style="text-align:center;"><strong>15:00–15:30</strong></td>
+<td><strong>Coffee break</strong></td>
+<td>—</td>
+<td>—</td>
 </tr>
 
 <tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">13:45–14:30</td>
-<td><strong>Session 15 – WG5: Governance / Cross-Border / Interoperable Credentials</strong></td>
-<td>WGZ Co-Chairs</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">15:30–16:00</td>
+<td><strong>Session 15 – WG6: Regulated domains: Athena</strong></td>
+<td>WG6 Co-Chairs</td>
 <td>Discussion for Approval</td>
 </tr>
 <tr><td>15.1 WG proponents presentations</td><td></td><td></td></tr>
 <tr><td>15.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">14:30–15:00</td>
-<td><strong>Session 16 – WG6: ICAP</strong></td>
-<td>WGZ Co-Chairs</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">16:00–16:30</td>
+<td><strong>Session 16 – WG7: Protected groups: Child Online Protection</strong></td>
+<td>WG7 Co-Chairs</td>
 <td>Discussion for Approval</td>
 </tr>
 <tr><td>16.1 WG proponents presentations</td><td></td><td></td></tr>
 <tr><td>16.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center;"><strong>15:00–15:30</strong></td>
-<td><strong>Coffee break</strong></td>
-<td>—</td><td>—</td>
-</tr>
-
-<tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">15:30–16:00</td>
-<td><strong>Session 17 – WGA: Regulated domains / Athena</strong></td>
-<td>Co-Chairs WGA</td>
-<td>Discussion for Approval</td>
+<td rowspan="3" style="text-align:center; vertical-align:middle;">16:30–16:45</td>
+<td><strong>Session 17 – WG8: Control Plane potentials</strong></td>
+<td>WG8 Co-Chairs</td>
+<td>—</td>
 </tr>
 <tr><td>17.1 WG proponents presentations</td><td></td><td></td></tr>
 <tr><td>17.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">16:00–16:30</td>
-<td><strong>Session 18 – WGB: Protected groups</strong><br>
-Child Online Protection</td>
-<td>Co-Chairs WGB</td>
-<td>Discussion for Approval</td>
-</tr>
-<tr><td>18.1 WG proponents presentations</td><td></td><td></td></tr>
-<tr><td>18.2 Proposal of charter</td><td></td><td></td></tr>
-
-<tr>
-<td rowspan="3" style="text-align:center; vertical-align:middle;">16:30–16:45</td>
-<td><strong>Session 19 – WG4: Control Plane potentials – Arnaud</strong></td>
-<td>WGY Co-Chairs</td>
-<td>—</td>
-</tr>
-<tr><td>19.1 WG proponents presentations</td><td></td><td></td></tr>
-<tr><td>19.2 Proposal of charter</td><td></td><td></td></tr>
-
-<tr>
 <td style="text-align:center;"><strong>16:45–17:00</strong></td>
 <td><strong>Coffee break</strong></td>
-<td>—</td><td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 
 <tr>
@@ -295,8 +302,8 @@ Child Online Protection</td>
 </tr>
 
 <tr>
-<td style="text-align:center;">17:30–18:15</td>
-<td><strong>Network &amp; Trustech dinner party for those who registered</strong></td>
+<td style="text-align:center;">17:30–22:00</td>
+<td><strong>Networking &amp; Trustech dinner party for those who registered</strong></td>
 <td>—</td>
 <td>—</td>
 </tr>
