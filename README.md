@@ -288,14 +288,7 @@ New Work Items (NWI) that do not fit an existing WG</td>
 <tr><td>17.2 Proposal of charter</td><td></td><td></td></tr>
 
 <tr>
-<td style="text-align:center;"><strong>16:45–17:00</strong></td>
-<td><strong>Coffee break</strong></td>
-<td>—</td>
-<td>—</td>
-</tr>
-
-<tr>
-<td style="text-align:center;">17:00–17:30</td>
+<td style="text-align:center;">16:45–17:15</td>
 <td><strong>Session 18 – Feedback and future directions</strong></td>
 <td>Co-Chairs</td>
 <td>—</td>
